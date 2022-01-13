@@ -1,0 +1,16 @@
+PODS:
+  - PodCreate (0.1.0)
+
+DEPENDENCIES:
+  - PodCreate (from `../`)
+
+EXTERNAL SOURCES:
+  PodCreate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodCreate: f9baa241abf75f81aec35cd13c53826cee59f975
+
+PODFILE CHECKSUM: c9e8fdeeaf7e857ebfe0f25fe00036b3388f5e9a
+
+COCOAPODS: 1.11.2

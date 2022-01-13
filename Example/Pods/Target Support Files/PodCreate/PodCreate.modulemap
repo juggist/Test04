@@ -1,0 +1,6 @@
+framework module PodCreate {
+  umbrella header "PodCreate-umbrella.h"
+
+  export *
+  module * { export * }
+}
