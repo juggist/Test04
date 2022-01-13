@@ -1,0 +1,2 @@
+ios_frameworks/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Flutter filter=lfs diff=lfs merge=lfs -text
+ios_frameworks/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Flutter filter=lfs diff=lfs merge=lfs -text
